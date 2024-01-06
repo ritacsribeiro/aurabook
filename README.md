@@ -1,2 +1,2 @@
 # aurabook
-projeto feito durante o curso de resposividade da alura
+projeto feito durante o curso de responsividade da alura
